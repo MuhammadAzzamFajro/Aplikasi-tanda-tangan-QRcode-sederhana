@@ -1,0 +1,2 @@
+- [x] Fix API path in signup-form.tsx: change '/api/auth/signup' to '/api/signup'
+- [x] Fix API path in login-form.tsx: change '/api/auth/login' to '/api/login'
